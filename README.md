@@ -1,4 +1,6 @@
 # Task1
+About Project
+  This project contains a simple Python script that generates a continuous string of positive integers starting from 1 (like 123456789101112...) and prints the string up to at least a user-specified position.
 Requirements:
   1.Python 3.x
 Features
@@ -32,6 +34,8 @@ Code Explanation
 
 
 #Task2
+About project
+  This project contains a Python script that determines which integer appears at a given position in the infinite sequence formed by concatenating all positive integers (12345678910111213...).
 Requirements
   1.Python 3.x
 Features
